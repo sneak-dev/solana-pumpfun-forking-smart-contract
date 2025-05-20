@@ -1,1 +1,1 @@
-# solana-pumpfun-forking-smart-contract
+# Solana PumpFun Forking Smart Contract
